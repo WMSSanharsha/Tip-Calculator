@@ -23,5 +23,5 @@ This is a simple **Tip Calculator** built with React. The app allows users to in
 - Press "Reset" to clear the form and start a new calculation.
 
 
-![Screenshot 2024-09-30 192306](https://github.com/user-attachments/assets/11728553-e315-422d-83a8-d5950d9bc308)
-![Screenshot 2024-09-30 192957](https://github.com/user-attachments/assets/33af498d-3772-4023-b4aa-7e4e3e7c11ce)
+![Screenshot 2024-09-30 192957](https://github.com/user-attachments/assets/c6716204-a7b8-4992-8691-d91ef4a18dba)
+![Screenshot 2024-09-30 192306](https://github.com/user-attachments/assets/0b87d443-4fbd-4357-b0f3-352e8d8f2eab)
