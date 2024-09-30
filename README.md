@@ -24,4 +24,4 @@ This is a simple **Tip Calculator** built with React. The app allows users to in
 
 
 ![Screenshot 2024-09-30 192306](https://github.com/user-attachments/assets/11728553-e315-422d-83a8-d5950d9bc308)
-![Screenshot 2024-09-30 192957](https://github.com/user-attachments/assets/af2c246f-b5d6-46bb-bb18-1e9531d263bf)
+![Screenshot 2024-09-30 192957](https://github.com/user-attachments/assets/33af498d-3772-4023-b4aa-7e4e3e7c11ce)
