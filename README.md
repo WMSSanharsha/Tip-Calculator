@@ -16,8 +16,11 @@ This is a simple **Tip Calculator** built with React. The app allows users to in
 
 ## Usage
 
-1. Enter the bill amount in the provided input field.
-2. Select your satisfaction rating from the dropdown.
-3. Select your friend's satisfaction rating.
-4. The app will automatically calculate and display the total amount you should pay, including the tip.
-5. Press "Reset" to clear the form and start a new calculation.
+- Enter the bill amount in the provided input field.
+- Select your satisfaction rating from the dropdown.
+- Select your friend's satisfaction rating.
+- The app will automatically calculate and display the total amount you should pay, including the tip.
+- Press "Reset" to clear the form and start a new calculation.
+
+
+![Screenshot 2024-09-30 192306](https://github.com/user-attachments/assets/11728553-e315-422d-83a8-d5950d9bc308)
